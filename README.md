@@ -6,4 +6,4 @@ changes from example branch
 
 Now editing on update branch
 
-Updated locally
+Updated locally, then remotely
